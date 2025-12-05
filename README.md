@@ -2,8 +2,10 @@
  <img width="120" alt="AzuOS: If it runs on the Web, it runs on AzuOS" src="assets/logo.svg">
 	<h1>AzuOS</h1>
 	<p>AzuOS is an Arch-based Operating System featuring a Desktop Environment written with Web Technologies and a Python Backend.</p>
-	<a href='https://azusystem.github.io/AzuOS'>Try out a live demo ↗</a>
+	<a href='https://azusystem.github.io/azuos-legacy'>Try out a live demo ↗</a>
 </div>
+
+# DISCLAIMER: THIS VERSION OF AZUOS IS NO LONGER BEING MAINTAINED!! IT WILL BE FORKED OFF LATER TO REPRESENT A WEB DEMO OF THE PROJECT—THIS IS NOT THE MAIN PROJECT ANYMORE!!! THIS IS -> https://github.com/AzuSystem/archiso
 
 ## 👀 What does AzuOS offer?
 An advantage of AzuOS being built on Web Technologies is it allows users and developers to easily customize their system and make it their own.
@@ -165,3 +167,5 @@ None of my creations were any good but I enjoyed making them either way, since t
 And now 3 years later, in 2024, we have AzuOS, i'll never forget those amazing days ❤️
 
 _p.s azuos doesnt need a web server to run, running the html page directly works pretty well :3_
+
+# DISCLAIMER: THIS VERSION OF AZUOS IS NO LONGER BEING MAINTAINED!! IT WILL BE FORKED OFF LATER TO REPRESENT A WEB DEMO OF THE PROJECT—THIS IS NOT THE MAIN PROJECT ANYMORE!!! THIS IS -> https://github.com/AzuSystem/archiso

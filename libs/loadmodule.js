@@ -75,7 +75,7 @@ function loadPromisedPackage(packagePath, args = '') {
         const scriptPath = `pkgs/${splitPath[0]}/${splitPath[1]}`;
 
         var script = document.createElement("script");
-        script.src = `scriptPath`;
+        script.src = scriptPath;
         
         script.onload = () => {
             console.log(`[Package Injector] Imported '${scriptPath}'`);

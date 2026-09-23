@@ -5,7 +5,7 @@
 	<a href='https://azusystem.github.io/azuos-legacy'>Try out a live demo ↗</a>
 </div>
 
-# DISCLAIMER: THIS VERSION OF AZUOS IS NO LONGER BEING MAINTAINED!! IT WILL BE FORKED OFF LATER TO REPRESENT A WEB DEMO OF THE PROJECT—THIS IS NOT THE MAIN PROJECT ANYMORE!!! THIS IS -> https://github.com/AzuSystem/archiso
+# DISCLAIMER: THIS VERSION OF AZUOS IS NO LONGER BEING MAINTAINED!! THIS IS NO LONGER THE MAIN PROJECT ANYMORE!!! THIS IS -> https://github.com/AzuSystem/live-build
 
 ## 👀 What does AzuOS offer?
 An advantage of AzuOS being built on Web Technologies is it allows users and developers to easily customize their system and make it their own.
@@ -168,4 +168,4 @@ And now 3 years later, in 2024, we have AzuOS, i'll never forget those amazing d
 
 _p.s azuos doesnt need a web server to run, running the html page directly works pretty well :3_
 
-# DISCLAIMER: THIS VERSION OF AZUOS IS NO LONGER BEING MAINTAINED!! IT WILL BE FORKED OFF LATER TO REPRESENT A WEB DEMO OF THE PROJECT—THIS IS NOT THE MAIN PROJECT ANYMORE!!! THIS IS -> https://github.com/AzuSystem/archiso
+# DISCLAIMER: THIS VERSION OF AZUOS IS NO LONGER BEING MAINTAINED!! THIS IS NO LONGER THE MAIN PROJECT ANYMORE!!! THIS IS -> https://github.com/AzuSystem/live-build
